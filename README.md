@@ -6,7 +6,7 @@ Pharrell isn't quite happy, he needs some help coding the album cover for his hi
 ### MOCKUP.jpg
 Pharrell did provide us with some specs for the design of the album, found in `MOCKUP.jpg`. In industry, frontend developers are typically given specs just like this from the product team and then asked to write the code to make a website look just like the spec. Today, you're the developers and Pharrell is the product team.
 
-You can view `MOCKUP.jpg` by using the file navigator in Nitrous and double clicking on the file name.
+You can view `MOCKUP.jpg` by using the file navigator and double clicking on the file name.
 
 ### SOURCE.md
 
@@ -18,17 +18,15 @@ Each line of text in this file corresponds to a note in `index.html` that will i
 
 ### Get To Werk
 
-You'll want to click `Open` in Learn. Write your code in `index.html`. Your job is to make sure the text from  `SOURCE.md` makes it into `index.html` surrounded by the appropriate HTML tags. Keep that file open in both your text editor (to make changes to the HTML) and the browser (to see if your changes worked). If you need a refresher on how to open an HTML file in the browser, take a look at `How To: Open A Lab`.
+You'll want to write your code in `index.html`. Your job is to make sure the text from  `SOURCE.md` makes it into `index.html` surrounded by the appropriate HTML tags. Keep that file open in both your text editor (to make changes to the HTML) and the browser (to see if your changes worked). If you need a refresher on how to open an HTML file in the browser, take a look at `How To: Open A Lab`.
 Use the comments found in that file to help you determine which HTML tags to use.
 
-When you're done with you're work, it's important to push your work to GitHub. Remember, that's your online developer portfolio. In Nitrous, in terminal in the `Album Cover` directory, enter `learn submit`. This will push your code to GitHub (you can see it if you look at your repositories!) and mark the lab as complete.
+When you're done with you're work, it's important to push your work to GitHub. Remember, that's your online developer portfolio. 
 
 
 ### Top Tip
 
-Images can be tricky. Take a look back at the the lesson from last week `Lesson: HTML Tags` for a refresher on how to link images that are stored in your project or lab directory.
+Images can be tricky. Take a look back at the lesson `Lesson: HTML Tags` for a refresher on how to link images that are stored in your project or lab directory.
 
-### Shutting Down
-Don't forget to shut down your server at the end of this lab by hitting `control` + `c`. If you don't shut down your server, you won't be able to use terminal again, or start the server again for another lab.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-album-cover' title='HTML Album Cover'>HTML Album Cover</a> on Learn.co and start learning to code for free.</p>
